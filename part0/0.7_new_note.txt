@@ -1,0 +1,4 @@
+Browser -> Server: HTTP_POST ../new_note (json)
+
+**the page is not reloaded (just re-rendered), 
+instead the note is updated on the page by the .js and is then sent to the server**
